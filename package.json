@@ -1,0 +1,19 @@
+{
+  "name": "vscode-sugar",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HankBu/vscode-sugar.git"
+  },
+  "author": "HankBu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HankBu/vscode-sugar/issues"
+  },
+  "homepage": "https://github.com/HankBu/vscode-sugar#readme"
+}
